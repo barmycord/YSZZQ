@@ -1,0 +1,139 @@
+
+hei.png
+size: 176,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/0
+  rotate: false
+  xy: 121, 2
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+effect/1
+  rotate: false
+  xy: 106, 31
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+effect/2
+  rotate: false
+  xy: 52, 30
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+effect/3
+  rotate: true
+  xy: 63, 3
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+effect/4
+  rotate: false
+  xy: 79, 30
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+effect/5
+  rotate: true
+  xy: 95, 3
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+effect/6
+  rotate: false
+  xy: 132, 36
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+effect/huo4
+  rotate: false
+  xy: 2, 11
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+effect/koushui0001
+  rotate: false
+  xy: 2, 3
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+effect/koushui0002
+  rotate: true
+  xy: 51, 4
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+effect/koushui0003
+  rotate: true
+  xy: 9, 4
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+effect/koushui0004
+  rotate: true
+  xy: 158, 37
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+effect/koushui0005
+  rotate: true
+  xy: 23, 4
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+effect/koushui0006
+  rotate: true
+  xy: 37, 4
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+effect/pao0002
+  rotate: true
+  xy: 52, 15
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+effect/pao0003
+  rotate: true
+  xy: 164, 21
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+effect/pao0004
+  rotate: true
+  xy: 147, 2
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+effect/pao0005
+  rotate: false
+  xy: 158, 44
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+effect/pao0006
+  rotate: false
+  xy: 147, 18
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
