@@ -1,0 +1,174 @@
+
+lantin.png
+size: 784,784
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bi
+  rotate: false
+  xy: 2, 419
+  size: 338, 361
+  orig: 338, 361
+  offset: 0, 0
+  index: -1
+biaoq02
+  rotate: false
+  xy: 342, 421
+  size: 46, 32
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+daizi01
+  rotate: false
+  xy: 571, 220
+  size: 194, 249
+  orig: 194, 249
+  offset: 0, 0
+  index: -1
+daizi02
+  rotate: true
+  xy: 492, 471
+  size: 125, 183
+  orig: 125, 183
+  offset: 0, 0
+  index: -1
+jiao01
+  rotate: true
+  xy: 2, 77
+  size: 69, 323
+  orig: 69, 323
+  offset: 0, 0
+  index: -1
+jiao02
+  rotate: true
+  xy: 327, 83
+  size: 63, 331
+  orig: 63, 331
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 677, 516
+  size: 53, 88
+  orig: 53, 88
+  offset: 0, 0
+  index: -1
+liuhai02
+  rotate: true
+  xy: 542, 424
+  size: 45, 26
+  orig: 46, 26
+  offset: 1, 0
+  index: -1
+mawei01
+  rotate: false
+  xy: 390, 435
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+mawei02
+  rotate: false
+  xy: 638, 675
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1
+mawei03
+  rotate: true
+  xy: 732, 518
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+qunzi01
+  rotate: true
+  xy: 342, 598
+  size: 182, 294
+  orig: 182, 294
+  offset: 0, 0
+  index: -1
+qunzi02
+  rotate: true
+  xy: 235, 283
+  size: 134, 334
+  orig: 145, 334
+  offset: 11, 0
+  index: -1
+qunzi03
+  rotate: true
+  xy: 2, 207
+  size: 210, 231
+  orig: 210, 231
+  offset: 0, 0
+  index: -1
+qunzi04
+  rotate: true
+  xy: 235, 148
+  size: 133, 334
+  orig: 145, 334
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 342, 455
+  size: 141, 148
+  orig: 141, 148
+  offset: 0, 0
+  index: -1
+shou001
+  rotate: false
+  xy: 677, 475
+  size: 80, 39
+  orig: 80, 47
+  offset: 0, 0
+  index: -1
+shou01
+  rotate: true
+  xy: 638, 606
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1
+xiuzi001
+  rotate: false
+  xy: 708, 619
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+xiuzi002
+  rotate: true
+  xy: 743, 719
+  size: 61, 35
+  orig: 61, 35
+  offset: 0, 0
+  index: -1
+xiuzi003
+  rotate: false
+  xy: 492, 421
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+xiuzi01
+  rotate: false
+  xy: 65, 151
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+xiuzi02
+  rotate: false
+  xy: 2, 170
+  size: 61, 35
+  orig: 61, 35
+  offset: 0, 0
+  index: -1
+xiuzi03
+  rotate: false
+  xy: 732, 569
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
