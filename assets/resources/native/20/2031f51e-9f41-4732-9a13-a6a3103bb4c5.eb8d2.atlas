@@ -1,0 +1,132 @@
+
+wuxianng.png
+size: 1532,1532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishi01
+  rotate: false
+  xy: 1013, 62
+  size: 203, 325
+  orig: 208, 325
+  offset: 5, 0
+  index: -1
+beishi02
+  rotate: true
+  xy: 1218, 57
+  size: 210, 312
+  orig: 210, 317
+  offset: 0, 1
+  index: -1
+guang01
+  rotate: false
+  xy: 775, 389
+  size: 512, 512
+  orig: 514, 514
+  offset: 1, 1
+  index: -1
+guang02
+  rotate: false
+  xy: 2, 765
+  size: 771, 765
+  orig: 773, 765
+  offset: 1, 0
+  index: -1
+jiao002
+  rotate: false
+  xy: 1289, 269
+  size: 199, 632
+  orig: 213, 632
+  offset: 0, 0
+  index: -1
+jiao01
+  rotate: false
+  xy: 1361, 904
+  size: 138, 626
+  orig: 138, 626
+  offset: 0, 0
+  index: -1
+kudang
+  rotate: true
+  xy: 2, 213
+  size: 193, 580
+  orig: 198, 580
+  offset: 5, 0
+  index: -1
+liuhai
+  rotate: true
+  xy: 888, 28
+  size: 120, 88
+  orig: 120, 89
+  offset: 0, 0
+  index: -1
+nianzhu
+  rotate: true
+  xy: 584, 146
+  size: 260, 183
+  orig: 260, 183
+  offset: 0, 0
+  index: -1
+nianzhu02
+  rotate: false
+  xy: 769, 58
+  size: 117, 90
+  orig: 117, 90
+  offset: 0, 0
+  index: -1
+qunbai
+  rotate: false
+  xy: 775, 903
+  size: 584, 627
+  orig: 588, 628
+  offset: 4, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 462
+  size: 301, 624
+  orig: 301, 624
+  offset: 0, 0
+  index: -1
+shou01
+  rotate: false
+  xy: 2, 58
+  size: 269, 153
+  orig: 269, 153
+  offset: 0, 0
+  index: -1
+shou02
+  rotate: true
+  xy: 628, 607
+  size: 156, 140
+  orig: 156, 140
+  offset: 0, 0
+  index: -1
+shou03
+  rotate: true
+  xy: 273, 63
+  size: 148, 247
+  orig: 149, 247
+  offset: 0, 0
+  index: -1
+shou04
+  rotate: false
+  xy: 628, 408
+  size: 127, 197
+  orig: 127, 197
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 769, 150
+  size: 237, 242
+  orig: 237, 242
+  offset: 0, 0
+  index: -1
+wujian01
+  rotate: false
+  xy: 1218, 337
+  size: 18, 50
+  orig: 18, 50
+  offset: 0, 0
+  index: -1
