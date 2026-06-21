@@ -1,0 +1,27 @@
+
+guangdeng.png
+size: 116,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_bling
+  rotate: false
+  xy: 54, 92
+  size: 20, 20
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+eff_pubLight
+  rotate: false
+  xy: 2, 2
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+littleguangzhu
+  rotate: true
+  xy: 2, 106
+  size: 6, 50
+  orig: 6, 50
+  offset: 0, 0
+  index: -1

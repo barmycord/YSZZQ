@@ -1,0 +1,146 @@
+
+gglk.png
+size: 948,1040
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biaoq
+  rotate: true
+  xy: 214, 12
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+jian01
+  rotate: false
+  xy: 793, 2
+  size: 125, 78
+  orig: 126, 101
+  offset: 1, 23
+  index: -1
+jian02
+  rotate: true
+  xy: 416, 52
+  size: 146, 78
+  orig: 146, 78
+  offset: 0, 0
+  index: -1
+jian02z
+  rotate: false
+  xy: 416, 200
+  size: 86, 120
+  orig: 88, 120
+  offset: 2, 0
+  index: -1
+jiaozz
+  rotate: false
+  xy: 880, 871
+  size: 66, 167
+  orig: 66, 167
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 793, 82
+  size: 127, 120
+  orig: 127, 135
+  offset: 0, 15
+  index: -1
+lihai
+  rotate: false
+  xy: 347, 25
+  size: 39, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: false
+  xy: 214, 69
+  size: 200, 238
+  orig: 200, 238
+  offset: 0, 0
+  index: -1
+qunbian01
+  rotate: true
+  xy: 536, 587
+  size: 154, 408
+  orig: 167, 409
+  offset: 0, 0
+  index: -1
+qunbian02
+  rotate: true
+  xy: 536, 404
+  size: 181, 400
+  orig: 192, 400
+  offset: 11, 0
+  index: -1
+qunzi01
+  rotate: false
+  xy: 343, 322
+  size: 191, 419
+  orig: 191, 419
+  offset: 0, 0
+  index: -1
+qunzi02
+  rotate: false
+  xy: 536, 29
+  size: 179, 373
+  orig: 179, 373
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 27
+  size: 210, 280
+  orig: 214, 280
+  offset: 0, 0
+  index: -1
+shou01
+  rotate: true
+  xy: 880, 764
+  size: 105, 60
+  orig: 106, 60
+  offset: 0, 0
+  index: -1
+shou02
+  rotate: false
+  xy: 2, 309
+  size: 339, 432
+  orig: 339, 432
+  offset: 0, 0
+  index: -1
+texiao
+  rotate: true
+  xy: 717, 204
+  size: 198, 218
+  orig: 198, 218
+  offset: 0, 0
+  index: -1
+toufa01
+  rotate: true
+  xy: 880, 743
+  size: 19, 59
+  orig: 19, 60
+  offset: 0, 0
+  index: -1
+toufa02
+  rotate: true
+  xy: 258, 24
+  size: 43, 87
+  orig: 43, 88
+  offset: 0, 1
+  index: -1
+wuqishou
+  rotate: true
+  xy: 2, 750
+  size: 288, 876
+  orig: 288, 876
+  offset: 0, 0
+  index: -1
+yao
+  rotate: true
+  xy: 717, 62
+  size: 140, 74
+  orig: 140, 74
+  offset: 0, 0
+  index: -1

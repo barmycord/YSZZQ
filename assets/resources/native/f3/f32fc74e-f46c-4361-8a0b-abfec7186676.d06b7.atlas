@@ -1,0 +1,76 @@
+
+anniu2.png
+size: 576,576
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4/1
+  rotate: true
+  xy: 352, 465
+  size: 109, 110
+  orig: 110, 111
+  offset: 1, 1
+  index: -1
+4/10
+  rotate: true
+  xy: 115, 355
+  size: 109, 111
+  orig: 110, 112
+  offset: 1, 1
+  index: -1
+4/2
+  rotate: true
+  xy: 121, 466
+  size: 108, 110
+  orig: 109, 111
+  offset: 1, 1
+  index: -1
+4/3
+  rotate: false
+  xy: 464, 465
+  size: 110, 109
+  orig: 111, 110
+  offset: 1, 1
+  index: -1
+4/4
+  rotate: false
+  xy: 2, 357
+  size: 111, 109
+  orig: 112, 110
+  offset: 1, 1
+  index: -1
+4/5
+  rotate: false
+  xy: 233, 466
+  size: 117, 108
+  orig: 117, 109
+  offset: 0, 1
+  index: -1
+4/6
+  rotate: false
+  xy: 2, 468
+  size: 117, 106
+  orig: 117, 106
+  offset: 0, 0
+  index: -1
+4/7
+  rotate: false
+  xy: 228, 354
+  size: 113, 110
+  orig: 114, 111
+  offset: 1, 1
+  index: -1
+4/8
+  rotate: false
+  xy: 343, 353
+  size: 111, 110
+  orig: 112, 111
+  offset: 1, 1
+  index: -1
+4/9
+  rotate: true
+  xy: 456, 353
+  size: 110, 112
+  orig: 111, 113
+  offset: 1, 1
+  index: -1

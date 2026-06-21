@@ -1,0 +1,55 @@
+
+fenghuang.png
+size: 224,841
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flo0001
+  rotate: false
+  xy: 2, 630
+  size: 190, 111
+  orig: 192, 112
+  offset: 1, 0
+  index: -1
+flo0003
+  rotate: false
+  xy: 2, 257
+  size: 214, 124
+  orig: 215, 125
+  offset: 1, 0
+  index: -1
+flo0005
+  rotate: false
+  xy: 2, 131
+  size: 220, 124
+  orig: 221, 126
+  offset: 1, 1
+  index: -1
+flo0007
+  rotate: false
+  xy: 2, 2
+  size: 212, 127
+  orig: 213, 128
+  offset: 0, 0
+  index: -1
+flo0009
+  rotate: false
+  xy: 2, 383
+  size: 209, 122
+  orig: 211, 123
+  offset: 1, 0
+  index: -1
+flo0011
+  rotate: false
+  xy: 2, 507
+  size: 206, 121
+  orig: 208, 122
+  offset: 1, 0
+  index: -1
+flo0013
+  rotate: false
+  xy: 2, 743
+  size: 203, 96
+  orig: 205, 98
+  offset: 1, 1
+  index: -1
