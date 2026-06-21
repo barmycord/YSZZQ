@@ -1,0 +1,55 @@
+
+gs.png
+size: 576,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mofa0001
+  rotate: false
+  xy: 84, 2
+  size: 80, 150
+  orig: 80, 150
+  offset: 0, 0
+  index: -1
+mofa0002
+  rotate: false
+  xy: 166, 2
+  size: 80, 150
+  orig: 80, 150
+  offset: 0, 0
+  index: -1
+mofa0003
+  rotate: false
+  xy: 248, 2
+  size: 80, 150
+  orig: 80, 150
+  offset: 0, 0
+  index: -1
+mofa0004
+  rotate: false
+  xy: 330, 2
+  size: 80, 150
+  orig: 80, 150
+  offset: 0, 0
+  index: -1
+mofa0005
+  rotate: false
+  xy: 412, 2
+  size: 80, 150
+  orig: 80, 150
+  offset: 0, 0
+  index: -1
+mofa0006
+  rotate: false
+  xy: 494, 2
+  size: 80, 150
+  orig: 80, 150
+  offset: 0, 0
+  index: -1
+mofa0007
+  rotate: false
+  xy: 2, 2
+  size: 80, 150
+  orig: 80, 150
+  offset: 0, 0
+  index: -1

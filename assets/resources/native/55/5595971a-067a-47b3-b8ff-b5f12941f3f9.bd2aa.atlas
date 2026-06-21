@@ -1,0 +1,69 @@
+
+rw.png
+size: 528,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aa
+  rotate: false
+  xy: 381, 47
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+bb
+  rotate: false
+  xy: 2, 2
+  size: 257, 161
+  orig: 257, 161
+  offset: 0, 0
+  index: -1
+cc
+  rotate: false
+  xy: 261, 77
+  size: 166, 210
+  orig: 169, 210
+  offset: 3, 0
+  index: -1
+mm
+  rotate: false
+  xy: 2, 165
+  size: 253, 361
+  orig: 285, 363
+  offset: 0, 0
+  index: -1
+nn
+  rotate: false
+  xy: 257, 289
+  size: 250, 237
+  orig: 250, 237
+  offset: 0, 0
+  index: -1
+ss
+  rotate: false
+  xy: 429, 161
+  size: 90, 126
+  orig: 93, 126
+  offset: 0, 0
+  index: -1
+vv
+  rotate: false
+  xy: 321, 31
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+xx
+  rotate: true
+  xy: 429, 78
+  size: 81, 83
+  orig: 81, 83
+  offset: 0, 0
+  index: -1
+zz
+  rotate: false
+  xy: 261, 9
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
