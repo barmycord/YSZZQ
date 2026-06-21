@@ -1,0 +1,62 @@
+
+xue.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood01
+  rotate: false
+  xy: 2, 2
+  size: 59, 24
+  orig: 59, 24
+  offset: 0, 0
+  index: -1
+blood02
+  rotate: false
+  xy: 63, 6
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+blood03
+  rotate: true
+  xy: 105, 48
+  size: 39, 12
+  orig: 39, 12
+  offset: 0, 0
+  index: -1
+blood04
+  rotate: true
+  xy: 105, 89
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+blood05
+  rotate: false
+  xy: 93, 8
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+blooddust
+  rotate: false
+  xy: 2, 28
+  size: 101, 96
+  orig: 101, 96
+  offset: 0, 0
+  index: -1
+bloodparticle01
+  rotate: true
+  xy: 114, 39
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+bloodparticle02
+  rotate: true
+  xy: 105, 32
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
