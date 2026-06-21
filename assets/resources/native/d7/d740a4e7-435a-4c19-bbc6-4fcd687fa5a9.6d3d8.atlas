@@ -1,0 +1,125 @@
+
+duanzao.png
+size: 1255,399
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cvc
+  rotate: false
+  xy: 391, 157
+  size: 307, 240
+  orig: 311, 243
+  offset: 2, 0
+  index: -1
+eff_pubLight
+  rotate: false
+  xy: 664, 123
+  size: 32, 32
+  orig: 34, 34
+  offset: 1, 1
+  index: -1
+light1
+  rotate: true
+  xy: 858, 15
+  size: 5, 52
+  orig: 5, 53
+  offset: 0, 1
+  index: -1
+light2
+  rotate: true
+  xy: 314, 7
+  size: 89, 73
+  orig: 89, 73
+  offset: 0, 0
+  index: -1
+light3
+  rotate: true
+  xy: 1116, 57
+  size: 111, 94
+  orig: 111, 94
+  offset: 0, 0
+  index: -1
+light301
+  rotate: false
+  xy: 201, 2
+  size: 111, 94
+  orig: 111, 94
+  offset: 0, 0
+  index: -1
+linelight
+  rotate: true
+  xy: 700, 11
+  size: 150, 156
+  orig: 157, 160
+  offset: 4, 4
+  index: -1
+pointlight
+  rotate: false
+  xy: 532, 56
+  size: 130, 99
+  orig: 130, 99
+  offset: 0, 0
+  index: -1
+roundray
+  rotate: false
+  xy: 858, 22
+  size: 138, 139
+  orig: 142, 142
+  offset: 2, 2
+  index: -1
+roundray01
+  rotate: true
+  xy: 391, 17
+  size: 138, 139
+  orig: 142, 142
+  offset: 2, 2
+  index: -1
+tc_bipai_
+  rotate: false
+  xy: 532, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+vbv
+  rotate: false
+  xy: 2, 98
+  size: 387, 299
+  orig: 427, 396
+  offset: 21, 65
+  index: -1
+wenzi/xcx
+  rotate: true
+  xy: 1003, 16
+  size: 381, 111
+  orig: 385, 113
+  offset: 2, 1
+  index: -1
+wenzi/xfhjh
+  rotate: false
+  xy: 700, 163
+  size: 301, 234
+  orig: 320, 252
+  offset: 10, 10
+  index: -1
+wenzi/zxz
+  rotate: true
+  xy: 1116, 170
+  size: 227, 137
+  orig: 244, 151
+  offset: 6, 8
+  index: -1
+zimohu1
+  rotate: false
+  xy: 2, 52
+  size: 197, 44
+  orig: 205, 44
+  offset: 4, 0
+  index: -1
+zimohu102
+  rotate: false
+  xy: 2, 6
+  size: 197, 44
+  orig: 205, 44
+  offset: 4, 0
+  index: -1

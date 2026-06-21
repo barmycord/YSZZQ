@@ -1,0 +1,41 @@
+
+leifujia.png
+size: 412,412
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/ld_1
+  rotate: true
+  xy: 313, 326
+  size: 54, 77
+  orig: 54, 77
+  offset: 0, 0
+  index: -1
+tx/ld_3
+  rotate: false
+  xy: 2, 262
+  size: 267, 65
+  orig: 267, 65
+  offset: 0, 0
+  index: -1
+tx/ld_4
+  rotate: false
+  xy: 313, 382
+  size: 78, 25
+  orig: 78, 25
+  offset: 0, 0
+  index: -1
+tx/ld_5
+  rotate: false
+  xy: 271, 259
+  size: 136, 65
+  orig: 136, 65
+  offset: 0, 0
+  index: -1
+tx/ld_7
+  rotate: false
+  xy: 2, 329
+  size: 309, 78
+  orig: 309, 78
+  offset: 0, 0
+  index: -1
